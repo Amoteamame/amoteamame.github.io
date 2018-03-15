@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### liberxue.github.io preview (demo) (https://liberxue.github.io/)
 
 `Jekyll Themes`
@@ -55,3 +56,7 @@
  
 * [Twitter](https://twitter.com/liberxue).
 
+=======
+# Amoteamame
+凡西的小站
+>>>>>>> 06ce79477cc8b66dc8de06761f625ab408ef7142
