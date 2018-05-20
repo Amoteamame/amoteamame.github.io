@@ -5,7 +5,7 @@
 
 # Site
 title: 凡西的小站
-subtitle:
+subtitle: 程序员凡西
 description: 如果毫不费力，你就是在浪费时间。
 author: 凡西
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -496,9 +496,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: eD6LqPwcs9LhSV9zUWRw8U7T-gzGzoHsz
+  app_key: D3sNDWneKiF7uxvrpjWYhJAG
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
