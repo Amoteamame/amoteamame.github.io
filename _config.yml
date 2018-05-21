@@ -379,8 +379,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: 凡西
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -559,7 +559,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
