@@ -215,6 +215,7 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/Amoteamame
+  CSDN: https://blog.csdn.net/Amo_te_ama_me
 
 # Social Links Icons
 # Icon Mapping:
@@ -228,6 +229,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  CSDN: globe
 
 
 # Sidebar Avatar
