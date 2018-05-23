@@ -2,7 +2,7 @@
 title: springboot的pom文件出错
 layout: post
 categories: 编程问题
-tags: 'bug,springboot'
+tags: bug springboot
 ---
 今天学习springboot时使用[SPRING INITIALIZR](http://start.spring.io/)工具产生基础项目，下载后导入到IDEA，注意导入时不要用File->Open方式导入，这样导入的话，不会识别为一个工程文件，要用：
 
